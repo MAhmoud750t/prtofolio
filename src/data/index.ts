@@ -64,11 +64,6 @@ const data = {
       icon: 'linkedin.svg',
       link: 'https://www.linkedin.com/in/mahmoud-elkhouly-048630292/',
     },
-    {
-      name: 'mail',
-      icon: 'mail',
-      link: 'https://www.linkedin.com/in/mahmoud-elkhouly-048630292/',
-    },
   ],
 };
 
