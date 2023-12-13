@@ -47,7 +47,7 @@ export const Project: FC<IProjectProps> = ({ project }) => {
           {project.links.Vid && (
             <a
               className="flex items-center px-5 py-2 duration-100 border-2 rounded-lg fill-current stroke-current hover:bg-neon hover:border-neon hover:backdrop-blur-lg border-neon group-hover:text-white hover:text-white text-neon"
-              href={project.links.GitHub}
+              href={project.links.Vid}
               rel="noreferrer"
               target="_blank"
             >
