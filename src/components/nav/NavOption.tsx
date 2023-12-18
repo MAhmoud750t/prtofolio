@@ -9,7 +9,7 @@ interface INavOption {
   number: number;
 }
 
-const NavOption: FC<INavOption> = ({ item, number }) => {
+const NavOption: FC<INavOption> = ({ item }) => {
   return (
     <p className="border-b-2 border-transparent cursor-pointer text-text hover:border-neon">
       <Link
@@ -21,7 +21,6 @@ const NavOption: FC<INavOption> = ({ item, number }) => {
         spy={true}
         to={item.href}
       >
-        <span className="text-neon">{number}. </span>
         {item.name}
       </Link>
     </p>

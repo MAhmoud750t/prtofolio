@@ -12,13 +12,14 @@ const data = {
   website: ' ',
   projects: [
     {
-      name: 'MK Klinic',
+      name: 'MK Klinik',
       image: '/projects/clinic.png',
-      about: 'Upgrade your dental website using the latest tech tools',
+      about:
+        'Designed and developed a comprehensive website for a medical clinic to enhance online presence, streamline patient communication, and improve overall user experience. The project involved collaborating with healthcare professionals to understand specific requirements and compliance standards.',
       tech: ['Vanilla JavaScript', 'Vanilla CSS', 'Bootstrap'],
       links: {
         Live: 'https://mk-clinic.netlify.app/',
-        Github: 'https://github.com/MAhmoud750t/clinic',
+        GitHub: 'https://github.com/MAhmoud750t/clinic',
       },
       role: 'Developer',
     },
@@ -30,7 +31,7 @@ const data = {
       tech: ['React.js', 'Tailwind CSS'],
       links: {
         Live: 'https://gymate-iota.vercel.app/',
-        GitHub: ' ',
+        GitHub: 'https://github.com/MAhmoud750t/Gymate?tab=readme-ov-file ',
       },
       role: 'UI UX and Web Developer',
     },
@@ -42,7 +43,7 @@ const data = {
       tech: ['Next.js', 'Typescript', 'Redux Toolkit', 'NextAuth.js'],
       links: {
         GitHub: 'https://github.com/MAhmoud750t/MK-online-store',
-        Live: '',
+        Live: '1',
         Vid: 'https://www.youtube.com/watch?v=pvMp9mlTDPY',
       },
       role: 'UI UX & Web Developer',
@@ -62,11 +63,6 @@ const data = {
     {
       name: 'LinkedIn',
       icon: 'linkedin.svg',
-      link: 'https://www.linkedin.com/in/mahmoud-elkhouly-048630292/',
-    },
-    {
-      name: 'mail',
-      icon: 'mail',
       link: 'https://www.linkedin.com/in/mahmoud-elkhouly-048630292/',
     },
   ],
