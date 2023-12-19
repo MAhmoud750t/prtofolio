@@ -43,7 +43,7 @@ const data = {
       tech: ['Next.js', 'Typescript', 'Redux Toolkit', 'NextAuth.js'],
       links: {
         GitHub: 'https://github.com/MAhmoud750t/MK-online-store',
-        Live: '1',
+        Live: 'https://mk-online-store.netlify.app/',
         Vid: 'https://www.youtube.com/watch?v=pvMp9mlTDPY',
       },
       role: 'UI UX & Web Developer',
