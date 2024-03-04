@@ -42,7 +42,7 @@ const data = {
       image: '/projects/clinic.png',
       about:
         'Designed and developed a comprehensive website for a medical clinic to enhance online presence, streamline patient communication, and improve overall user experience. The project involved collaborating with healthcare professionals to understand specific requirements and compliance standards.',
-      tech: ['Vanilla JavaScript', 'Vanilla CSS', 'Bootstrap'],
+      tech: ['Vanilla JavaScript', 'Vanilla CSS'],
       links: {
         Live: 'https://mk-clinic.netlify.app/',
         GitHub: 'https://github.com/MAhmoud750t/clinic',
