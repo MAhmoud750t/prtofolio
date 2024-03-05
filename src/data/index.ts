@@ -7,7 +7,7 @@ const data = {
   profession: 'Web Developer',
   intro: 'Web & Mobile Developer ',
   about:
-    'Hi, I’m Mahmoud. 👋 I’m a Web Developer skilled in Next.js, React.js, Tailwind CSS. I possess advanced proficiency in React and Next.js, with a focus on crafting websites that adapt seamlessly to various screen sizes. If you want to work with someone with a comfortable and responsive design, you are in the right place. Based in Egypt. 📍',
+    'Hi, I’m Mahmoud. 👋 I’m a Web Developer skilled in Next.js, React.js, Tailwind CSS. I possess advanced proficiency in React and Next.js, with a focus on crafting websites that adapt seamlessly to various screen sizes. If you want to work with someone with a comfortable and responsive design, you are in the right place. ',
 
   website: ' ',
   projects: [
