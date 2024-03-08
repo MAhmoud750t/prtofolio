@@ -29,8 +29,10 @@ export const Contact = () => {
           </div>
         ))}
       </div>
-      <span>Email : Mahmoud750t@gmail.com</span>
-      <span>00201551187013</span>
+      <div className=" flex  justify-between mt-10">
+        <span className="px-10 text-neon ">Email : Mahmoud750t@gmail.com</span>
+        <span className="px-10 text-neon ">WhatsApp : 00201551187013</span>
+      </div>
     </div>
   );
 };
