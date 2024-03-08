@@ -51,7 +51,7 @@ export const Project: FC<IProjectProps> = ({ project }) => {
               rel="noreferrer"
               target="_blank"
             >
-              <span className="ml-2">video</span>
+              <span className="ml-2">Video</span>
             </a>
           )}
           <a
@@ -61,7 +61,7 @@ export const Project: FC<IProjectProps> = ({ project }) => {
             target="_blank"
           >
             <VisitIcon />
-            <span className="ml-2">Visit</span>
+            <span className="ml-2">Demo </span>
           </a>
         </div>
       </div>
